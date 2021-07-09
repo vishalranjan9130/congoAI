@@ -1,0 +1,59 @@
+@media only screen and (max-width: 600px){
+/* .flex1{
+    display: flex;
+    justify-content:start;
+    align-items: center;
+    margin-left: 7%;
+}
+.F1{
+    color: white;
+    padding-top: 20px;
+    text-align:start;
+    letter-spacing: 1.2px;
+    text-shadow: 0 0 2px snow;
+} */
+
+/* .tit-img{
+    width: 20px;
+    height: 20px;
+    background-color: #fef6e6;
+    border-radius: 100px;
+    margin-left: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.col-menu{
+    width: 78%;
+    height: 45px;
+    margin: 12px auto;
+    padding: 10px;
+    padding-left: 30px;
+}
+
+
+
+.bottom{
+    width: 66%;
+    margin: 34px auto;
+    border-radius:100px ;
+    border: 2px #e9e9e9 solid;
+    box-shadow: 0px 0 15px rgb(236, 225, 225);
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+.chat{
+    height: 90vh;
+    width: 100%;
+    position: sticky;
+    bottom: 20px;
+    float: right;
+    right: 20px;
+    background-color: rgb(230, 120, 87);
+    
+}
+}
